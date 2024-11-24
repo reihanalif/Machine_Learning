@@ -1,1 +1,1 @@
-# SampahIO-ImageClassification
+# SampahIO
